@@ -1,0 +1,24 @@
+{
+  "name": "cake-portfolio",
+  "version": "1.0.0",
+  "description": "A portfolio made with CakePHP and TailwindCSS",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cakePHP",
+    "tailwind",
+    "portfolio"
+  ],
+  "author": "Fernand Jose Diaz Perez",
+  "license": "MIT",
+  "devDependencies": {
+    "autoprefixer": "^10.4.0",
+    "postcss": "^8.3.11",
+    "tailwindcss": "^2.2.19"
+  }
+}
